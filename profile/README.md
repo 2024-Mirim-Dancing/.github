@@ -14,5 +14,5 @@
 
 
 <div align="left">
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/d19212a4-2d8b-4fb6-b3b6-fb8d2235acb8">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d19212a4-2d8b-4fb6-b3b6-fb8d2235acb8">
 </div>
